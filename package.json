@@ -1,8 +1,9 @@
 {
   "name": "path-platform",
-  "version": "0.0.1",
+  "version": "0.11.15",
+  "license": "MIT",
   "author": "Timothy J Fontaine <tjfontaine@gmail.com> (http://atxconsulting.com)",
-  "description": "Provide access to win32 and posix path operations",
+  "description": "Provide access to win32 and posix path operations; sourced directly from upstream Node.js",
   "keywords": [
     "path",
     "platform",
