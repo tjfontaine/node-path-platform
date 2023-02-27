@@ -29,7 +29,7 @@ var _path = require('path');
 // system then
 if (_path.posix) {
   module.exports = _path;
-  return;
+  process.exit();
 }
 
 // resolves . and .. elements in a path array with directory names there
