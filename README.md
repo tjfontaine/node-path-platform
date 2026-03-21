@@ -1,3 +1,5 @@
+> **⚠️ This project is archived and no longer maintained.**
+
 # path-platform
 
 This is a transitional package for those not on 0.12 that provides a compatible
